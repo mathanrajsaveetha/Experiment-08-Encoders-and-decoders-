@@ -110,6 +110,9 @@ endmodule
 ![2023-05-11 (9)](https://github.com/Aishwarya-sankar/Experiment-08-Encoders-and-decoders-/assets/121418444/24d28ee1-b22c-44b3-96b3-9c81468824a0)
 ### DECODER
 ![2023-05-11 (1)](https://github.com/Aishwarya-sankar/Experiment-08-Encoders-and-decoders-/assets/121418444/a7f30eff-ac66-4108-b640-321c8afe7150)
+### TRUTHTABLE
+![de tt8](https://github.com/Aishwarya-sankar/Experiment-08-Encoders-and-decoders-/assets/121418444/b6acfcd3-fc8a-4a0b-ac1f-4699f8ce7a1c)
+![de 8 tt](https://github.com/Aishwarya-sankar/Experiment-08-Encoders-and-decoders-/assets/121418444/73184eb2-befa-401f-846c-9c24d64b57b6)
 
 
 ### RESULTS 
